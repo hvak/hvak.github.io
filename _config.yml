@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hersh Vakharia"
 title_separator          : "-"
 name                     : &name "Hersh Vakharia"
-description              : &description "personal description"
+description              : &description "Roboticist"
 url                      : https://hvak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hvak.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hersh Vakharia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Robotics Master's Student at the University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
   googlescholar    : 
