@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-* **Research Assistant**, *UMich Robotics - Ford Center for Autonomous Vehicles*, 08/2022 - Present
+* **Research Assistant**, *UMich Robotics - [Ford Center for Autonomous Vehicles](https://fcav.engin.umich.edu/)*, 08/2022 - Present
   * Exploring fuzzy measure based multi-modal and multi-resolution sensor fusion techniques
 
 * **Software Engineer Intern**, *Microsoft - Imaging and Provisioning Team*, 05/2023 - 08/2023
@@ -44,7 +44,7 @@ Work experience
   * Engineered a ROS Camera-IMU synchronization sensor for Robust Visual Inertial Odometry Framework
   * Calibrated IMU, camera (extrinsic and intrinsic), and Cam-IMU sync using Kalibr toolset
   
-* **Team Lead / Sensors Lead / Sensors Member**, *University of Michigan Autonomous Robotic Vehicle Team*, 09/2018 - 04/2022
+* **Team Lead / Sensors Lead / Sensors Member**, *[University of Michigan Autonomous Robotic Vehicle Team](https://www.umarv.com/)*, 09/2018 - 04/2022
   * Team Lead - led team of 40 members in design and development of autonomous robotic vehicle for the 2022 Intelligent Ground Vehicle Competition at Oakland University, managed relations with university, advisors, and sponsors
   * Sensors Lead - led sensors subteam in development and documentation of robot's perception stack, ran technical ROS workshops
   * Sensors Member - Developed sensor fusion of LIDAR, IMU, wheel encoder, and GPS data in ROS and C++ for computing odometry and SLAM (Google Cartographer)
