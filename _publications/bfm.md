@@ -12,7 +12,7 @@ citation: 'H. Vakharia and X. Du, "Efficient Multi-Resolution Fusion for Remote 
 
 [Link to the paper](https://ieeexplore.ieee.org/document/10282851)
 
-[See the poster](http://academicpages.github.io/files/igarss_poster_final.pdf)
+[See the poster](http://hvak.github.io/files/igarss_poster_final.pdf)
 
 H. Vakharia and X. Du, "Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 6326-6329, doi: 10.1109/IGARSS52108.2023.10282851.
 
