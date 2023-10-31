@@ -9,32 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume](http://hvak.github.io/files/Hersh_Vakharia_Resume.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Robotics, University of Michigan, 2024
+  * GPA: 4.00/4.00
+  * Perception and Sensing Focus
+* B.S. in Computer Engineering, University of Michigan, 2022
+  * Minor in Mathematics
+  * GPA: 3.67/4.00
+  * Coursework: Robotics, Embedded Systems, Computer Vision, Linear Algebra
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant**, *UMich Robotics - Ford Center for Autonomous Vehicles*, 08/2022 - Present
+  
+* **Software Engineer Intern**, *Microsoft - Imaging and Provisioning Team*, 05/2023 - 08/2023
+  
+* **Software Engineer Intern**, *Microsoft - Surface Cross Platform UEFI Team*, 05/2022 - 08/2022
+  
+* **Firmware Engineer Intern**, *Microsoft - Surface Duo Developer Experience Team*, 05/2021 - 08/2021
+  
+* **Embedded Systems Engineering Intern**, *Lucid Drone Technologies*, 05/2020 - 08/2020
+  
+* **Team Lead / Sensors Lead / Sensors Member**, *University of Michigan Autonomous Robotic Vehicle Team*, 09/2018 - 04/2022
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C
+  * C++
+  * Python
+  * C#
+  * MATLAB
+* Hardware
+  * Arduino
+  * Raspberry Pi
+  * NVIDIA Jetson
+  * STM32
+  * Intel RealSense
+  * Serial Communication Protocols
+* Frameworks
+  * Robot Operating System (ROS)
+  * MoveIt
+  * Gazebo
+  * PyTorch
+  * CUDA
+  * OpenCV
+  * Android SDK
+* Other
+  * Linux
+  * Git
+  * SLAM
+  * Docker
 
 Publications
 ======
@@ -42,18 +70,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
