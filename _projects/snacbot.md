@@ -1,11 +1,9 @@
 ---
 title: "SNACBot"
-excerpt: "SNACBot is a 5-axis robot arm that autonomously feeds people snacks. It uses a gripper-mounted Intel RealSense depth camera and computer vision/machine learning techniques to find, grasp, and deliver food to a human.<br/><img src='/images/projects/snacbot/snacbot_cover.png'"
+excerpt: "SNACBot is a 5-axis robot arm that autonomously feeds people snacks. It uses a gripper-mounted Intel RealSense depth camera and computer vision/machine learning techniques to find, grasp, and deliver food to a human.<br/><img src='/images/projects/snacbot/snacbot_cover.png'>"
 collection: projects
 ---
 
-SNACBot
-===
 <img src="/images/projects/snacbot/snacbot_cover.png">
 
 SNACBot is a 5-axis robot arm that autonomously feeds people snacks. It uses a gripper-mounted Intel RealSense depth camera and computer vision/machine learning techniques to find, grasp, and deliver food to a human.
