@@ -1,5 +1,5 @@
 ---
-title: "<br/><img src='/images/projects/snacbot/snacbot_icon.png' width='50'> SNACBot"
+title: "<img src='/images/projects/snacbot/snacbot_icon.png' width='50'> SNACBot"
 excerpt: "**Relevant skills: Python, C++, ROS, MoveIt, Computer Vision, YOLOv5, Inverse Kinematics** 
 SNACBot is a 5-axis robot arm that autonomously feeds people snacks. It uses a gripper-mounted Intel RealSense depth camera and computer vision/machine learning techniques to find, grasp, and deliver food to a human."
 collection: projects

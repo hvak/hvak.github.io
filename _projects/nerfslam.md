@@ -1,5 +1,5 @@
 ---
-title: "<br/><img src='/images/projects/nerfslam/nerfslam_icon.png' width='50'> NeRF-SLAM Docker"
+title: "<img src='/images/projects/nerfslam/nerfslam_icon.png' width='50'> NeRF-SLAM Docker"
 excerpt: "**Relevant skills: Python, PyTorch, GTSAM, Docker** 
 We built a docker environment of NeRF-SLAM: *Real-Time Dense Monocular SLAM with Neural Radiance Fields* by Antoni Rosinol, John J. Leonard, and Luca Carlone. We replicate results in the paper, as well as test on our own datasets."
 collection: projects
