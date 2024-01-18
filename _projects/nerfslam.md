@@ -20,7 +20,7 @@ The figure below shows a screenshot one of our results.
 
 <img src="/images/projects/nerfslam/nerfslam_figure.png">
 
-Our testing was run on a GTX 4080 with 12gb of VRAM. Our tests do not show real-world performance, and there were memory constraints, though the final renders showed high fidelity. More details can be found in the report linked below.  
+Our testing was run on a GTX 4080 with 12gb of VRAM. Our tests do not show real-time performance, and there were memory constraints, though the final renders showed high fidelity. More details can be found in the report linked below.  
 
 ---
 Links:
