@@ -16,6 +16,8 @@ A pytorch implementation of  [A Neural Algorithm of Artistic Style](https://arxi
 
 <img src="/images/projects/adain/grid.png">
 
+---
+
 Links:
 * [GitHub Repo](https://github.com/hvak/adaIN-style-transfer)
 * [Detailed Report](https://github.com/hvak/adaIN-style-transfer/blob/main/report.pdf)

@@ -13,6 +13,8 @@ The arm is entirely 3D printed and utilizes Dynamixel servo motors for each join
 
 <img src="/images/projects/snacbot/snacbot_ros_architecture.png">
 
+---
+
 Links:
 * [GitHub Repo](https://github.com/hvak/SNACBot)
 * [Detailed Report](https://github.com/hvak/SNACBot/blob/main/report.pdf)
