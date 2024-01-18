@@ -1,6 +1,6 @@
 ---
-title: "Robot Laser Tag"
-excerpt: "STM32-based omni-directional tilt-controlled robots with motorized turrents for IR laser tag <br/><img src='/images/projects/robot_laser_tag/cover.png' width='500'>"
+title: "<br/><img src='/images/projects/robot_laser_tag/icon.png' width='50'> Robot Laser Tag"
+excerpt: "STM32-based omni-directional tilt-controlled robots with motorized turrents for IR laser tag."
 collection: projects
 ---
 
