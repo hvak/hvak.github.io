@@ -1,6 +1,7 @@
 ---
 title: "<br/><img src='/images/projects/adain/adain_icon.png' width='50'> AdaIN Style Transfer"
-excerpt: "This is a pytorch implementation of Adaptive Instance Normalization (AdaIN) arbitrary style transfer, as outlined in Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization by Xun Huang and Serge Belongie."
+excerpt: "**Relevant skills: Python, PyTorch, Computer Vision** 
+This is a pytorch implementation of Adaptive Instance Normalization (AdaIN) arbitrary style transfer, as outlined in Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization by Xun Huang and Serge Belongie."
 collection: projects
 ---
 
