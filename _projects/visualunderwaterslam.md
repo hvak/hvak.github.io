@@ -1,6 +1,6 @@
 ---
 title: "<img src='/images/projects/visualunderwaterslam/icon.png' width='50'> ROB 530: Visual Underwater SLAM"
-excerpt: "**Relevant skills: Python, GTSAM, ROS, SLAM** 
+excerpt: "**Relevant skills: Python, GTSAM, ROS, SLAM, Docker** 
 This project implements underwater visual inertial SLAM as the final project for UM Robotics' ROB 530: Mobile Robotics. The problem is formulated in GTSAM as pose-graph SLAM with ORB features for underwater landmarks. It was tested on a dataset collected by a BlueROV2 robot."
 collection: projects
 ---
