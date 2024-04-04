@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm Hersh Vakharia and I'm currently pursuing a Master's degree in Robotics at the University of Michigan. I earned my Bachelor's degree in Computer Engineering with a minor in Mathematics from University of Michigan in 2022.
+I'm Hersh Vakharia and I'm currently pursuing a Master's degree in Robotics at the University of Michigan. I received Bachelor's degree in Computer Engineering with a minor in Mathematics from University of Michigan in 2022.
 
-My research interests include: perception, sensor fusion, SLAM, and state estimation.
+My research interested include: perception/sensing, SLAM, and explainable AI.
