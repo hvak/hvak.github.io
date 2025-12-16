@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm Hersh Vakharia and I'm currently pursuing a Master's degree in Robotics at the University of Michigan. I received Bachelor's degree in Computer Engineering with a minor in Mathematics from University of Michigan in 2022.
+Hi, I'm Hersh Vakharia — a Software Engineer at Microsoft in the Surface org.
 
-My research interested include: perception/sensing, SLAM, and explainable AI.
+I earned my Master's degree in Robotics from the University of Michigan, where I researched perception, sensing, and explainable AI. Before that, I completed a Bachelor's degree in Computer Engineering with a minor in mathematics, also at the university of Michigan.
